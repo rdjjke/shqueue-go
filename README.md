@@ -11,6 +11,7 @@ Limitations:
 - All messages in a queue must be of the same size
 - The maximum size of the queue must be set in advance
 - Intended for frequent reads/writes. Otherwise, the CPU overhead will be significant, and the latency won't be so small
+- Currently, only unix systems are supported
 
 ### Examples
 
