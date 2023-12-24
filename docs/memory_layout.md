@@ -1,4 +1,4 @@
-# Memory structure
+# Memory layout
 
 ```
 ------------ 0 byte
