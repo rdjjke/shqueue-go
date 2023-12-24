@@ -1,0 +1,7 @@
+.idea/
+
+vendor/
+
+go.work
+
+go.sum
